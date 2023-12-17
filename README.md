@@ -17,7 +17,8 @@ Here's SQL Server skills I applied in the project:
 - Working With Datetime and Formatting
 - Using Aggregation Functions to extract useful information like: Monthly Trends, % Sales Per Order / Category
 
-  _Note: See my Pizza KPIs.sql File for more details_
+  _Note: See my Pizza KPIs.sql File for more details:_
+  <https://github.com/GiaiHung/pizza/blob/main/Pizza%20KPIs.sql>
 
 ## 4. Power BI
 
@@ -27,7 +28,8 @@ Here's Power BI skills I applied in the project:
 - Ability to write complex queries for data extraction, transformation, and analysis.
 - Skills in cleaning and transforming raw data into usable formats, ensuring accuracy and consistency.
 
-  _Note: See my Dashboard.pdf File for more details_
+  _Note: See my Dashboard.pdf File for more details:_
+  <https://github.com/GiaiHung/pizza/blob/main/Dashboard.pdf>
 
 ## 5. What Problems Project Helps To Solve
 
